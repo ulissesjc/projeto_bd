@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
  *      title="API WEB",
  *      description="Estudo da Tecnologia - Banco de Dados I",
  *      @OA\Contact(
- *          email="darius@matulionis.lt"
+ *          email="ulissesc2811@academico.ufs.br"
  *      ),
  *     @OA\License(
  *         name="Apache 2.0",
