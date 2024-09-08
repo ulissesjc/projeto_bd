@@ -16,4 +16,4 @@ Requisição GET - http://localhost:8000/api/users/
 
 Requisição POST - http://localhost:8000/api/users/
 
-Documentação SWAGGER - http://127.0.0.1:8000/docs/api-docs.json
+Documentação SWAGGER - http://localhost:8000/docs/api-docs.json
